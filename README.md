@@ -5,3 +5,4 @@ This is your submission for phase 1 of project 1. Directly edit this `README.md`
 
 * (EXAMPLE) Angel Aguirre & Marlen Martinez-Lopez - College student mental health
 * Logan Roche & Pano Klironomos & Joseph Callaway - Energy Useage
+* Jackson Pedeupe & Elazar Vilensky - Geographic and demographic relationships between punitive outcomes
