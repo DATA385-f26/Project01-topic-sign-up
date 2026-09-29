@@ -16,3 +16,4 @@ This is your submission for phase 1 of project 1. Directly edit this `README.md`
 * Emily Lupercio, Miriam Luna, Hector Aripez - Social Media Behabior
 * Quinten Robinson, Matthew Baxman - Basketball Revenue
 * Aaron Joseph, Jake Cerny - Nutrition and Food Consumption
+* Robert Williams, Alexander Stevens - Air Quality
