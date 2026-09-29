@@ -8,3 +8,4 @@ This is your submission for phase 1 of project 1. Directly edit this `README.md`
 * Jackson Pedeupe & Elazar Vilensky - Geographic and demographic relationships between punitive outcomes
 * Anthony Palomba, Kristian Meza & Rafael Wenslaff - Public Transportation
 * Tristen Hale, Jasper Eerkens - Energy usage per capita for the world
+* Jack Roue, Cailin Wilson - Campus safety
