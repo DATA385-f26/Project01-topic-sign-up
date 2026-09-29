@@ -9,3 +9,4 @@ This is your submission for phase 1 of project 1. Directly edit this `README.md`
 * Anthony Palomba, Kristian Meza & Rafael Wenslaff - Public Transportation
 * Tristen Hale, Jasper Eerkens - Energy usage per capita for the world
 * Jack Roue, Cailin Wilson - Campus safety
+* Gabriel Stomberg-Fannon, Aliyah Cardenas - Healthcare access
