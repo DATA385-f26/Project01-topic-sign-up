@@ -13,3 +13,4 @@ This is your submission for phase 1 of project 1. Directly edit this `README.md`
 * Anmol Virdi, Blaine Maasen, Abraham Simon - Social Media Behavior
 * Forrest Stewart, Luke Maloney - Living Affordability over time
 * Johanna, Ninnian, Brandon - Demographic effects on quality of life
+* Emily Lupercio, Miriam Luna, Hector Aripez - Social Media Behabior
